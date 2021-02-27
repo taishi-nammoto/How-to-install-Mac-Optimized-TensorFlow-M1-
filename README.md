@@ -20,9 +20,10 @@ Open a new terminal and type the following command
 conda env list
 ~~~
 
-Your current environment should be base under miniforge3. 
+Your current environment should be base under miniforge3. <br>
+The output should have * /Users/username/miniforge3
 ~~~
-base                    * /Users/username/miniforge3
+base       * /Users/username/miniforge3
 ~~~
 
 ## 4. Set variables
